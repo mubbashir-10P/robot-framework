@@ -1,0 +1,8 @@
+browser = "chrome"
+webUrl = "https://www.saucedemo.com/"
+userName = "standard_user"
+password = "secret_sauce"
+searchBar = "name=q"
+keyName = "ENTER"
+headerText = "Swag Labs"
+appLogoText = "Swag Labs"
